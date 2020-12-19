@@ -1,0 +1,16 @@
+import calpkg.calculator
+
+print(calpkg.calculator.plus(1, 2)) 
+# 덧셈
+
+print(calpkg.calculator.minus(1, 2))
+# 뺄셈
+
+print(calpkg.calculator.x(1,2))
+# 곱셈
+
+print(calpkg.calculator.division(1, 2))
+# 나눗셈
+
+
+
